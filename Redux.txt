@@ -18,5 +18,8 @@ Getting Started with Redux (Dan dan_abramovv) -
 LearnCode Academy (Redux Tutorials) - 
 	https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt
 
+Racoon (vk #redux)
+	https://vk.com/jsraccoon/redux
+
 ################## DEVTOOLS ##################
 https://github.com/zalmoxisus/redux-devtools-extension
