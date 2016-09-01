@@ -1,0 +1,22 @@
+
+################## TUTORIALS/THEORY/DOCS ##################
+Dan Abramov - The Redux Journey at react-europe 2016 - 
+	https://www.youtube.com/watch?v=uvAXVMwHJXU
+
+Why Redux? (Dan Abramov)- 
+	https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31#.jzhu33xbl
+
+Руководство по работе с Redux (VERY BIG ARTICLE / Mail Group) - 
+	https://habrahabr.ru/company/mailru/blog/303456/
+
+С 0 до 1. Разбираемся с Redux - 
+	https://habrahabr.ru/post/269831/
+
+Getting Started with Redux (Dan dan_abramovv) - 
+	https://egghead.io/courses/getting-started-with-redux
+
+LearnCode Academy (Redux Tutorials) - 
+	https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt
+
+################## DEVTOOLS ##################
+https://github.com/zalmoxisus/redux-devtools-extension
