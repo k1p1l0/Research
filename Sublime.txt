@@ -1,1 +1,5 @@
-HOTKEYS FOR SUBLIME (Create Folder/Create File) - https://github.com/skuroda/Sublime-AdvancedNewFile
+HOTKEYS FOR SUBLIME (Create Folder/Create File)
+	https://github.com/skuroda/Sublime-AdvancedNewFile
+
+BABEL
+	https://packagecontrol.io/packages/Babel
