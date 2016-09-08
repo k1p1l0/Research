@@ -1,0 +1,2 @@
+1) http://codewinds.com/blog/2015-04-02-emacs-flycheck-eslint-jsx.html
+2) https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.fj9l0k7ac

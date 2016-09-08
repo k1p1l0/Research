@@ -1,0 +1,2 @@
+#SET DEFAULT EDITOR
+git config --global core.editor "subl -n -w"

@@ -3,3 +3,6 @@ HOTKEYS FOR SUBLIME (Create Folder/Create File)
 
 BABEL
 	https://packagecontrol.io/packages/Babel
+
+Шпаргалки
+	https://learn.javascript.ru/sublime~

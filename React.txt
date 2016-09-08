@@ -3,3 +3,9 @@
 DOCS
 	http://knowbody.github.io/react-router-docs/
  
+ #TODO
+ https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA
+ https://habrahabr.ru/post/248799/
+ https://habrahabr.ru/post/249107/
+ https://habrahabr.ru/hub/ReactJS/
+ https://habrahabr.ru/post/229629/

@@ -22,3 +22,7 @@ Racoon (vk #redux)
 
 ################## DEVTOOLS ##################
 https://github.com/zalmoxisus/redux-devtools-extension
+
+
+#TODO
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a
